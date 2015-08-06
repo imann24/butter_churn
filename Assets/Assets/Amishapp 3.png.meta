@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 8e0ce772f7aa547fa81ca90d3519d2b1
+timeCreated: 1438827039
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Amishapp 3_0
+    21300002: Amishapp 3_1
+    21300004: Amishapp 3_2
+    21300006: Amishapp 3_3
+    21300008: Amishapp 3_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: 12
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Amishapp 3_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1611
+        width: 615
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Amishapp 3_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1457
+        width: 420
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Amishapp 3_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 63
+        height: 1251
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Amishapp 3_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 398
+        width: 462
+        height: 1017
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Amishapp 3_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 136
+        width: 424
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Butter_Churn
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
